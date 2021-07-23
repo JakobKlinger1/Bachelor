@@ -1,0 +1,28 @@
+# Starting at Thu Jul 15 11:44:07 2021
+# Data loaded,  60416/10240 samples used.
+# Go ...
+ iteration: 117 Training Accuracy: 57.21525504729438 Validation Accuracy: 80.51967018412994
+ iteration: 235 Training Accuracy: 83.24332159694762 Validation Accuracy: 93.93866321821613
+ iteration: 353 Training Accuracy: 92.82414200861916 Validation Accuracy: 97.0052129266244
+ iteration: 471 Training Accuracy: 96.28650745170049 Validation Accuracy: 97.73282523734011
+ iteration: 589 Training Accuracy: 97.7806137959214 Validation Accuracy: 98.3217965067643
+ iteration: 707 Training Accuracy: 98.34756166138736 Validation Accuracy: 98.55944633547425
+ iteration: 825 Training Accuracy: 98.6725208483577 Validation Accuracy: 98.64721783033137
+ iteration: 943 Training Accuracy: 98.91222223730244 Validation Accuracy: 98.63190223374764
+ iteration: 1061 Training Accuracy: 98.99655224809398 Validation Accuracy: 98.75857079059662
+ iteration: 1179 Training Accuracy: 99.15553625680286 Validation Accuracy: 98.8105241864887
+# Saving models ...
+# ... done.
+ iteration: 1297 Training Accuracy: 99.2535597577206 Validation Accuracy: 98.85873792414208
+ iteration: 1415 Training Accuracy: 99.37479166896519 Validation Accuracy: 98.91265621723431
+ iteration: 1533 Training Accuracy: 99.41663261111367 Validation Accuracy: 98.88307913752972
+ iteration: 1651 Training Accuracy: 99.49311894639345 Validation Accuracy: 99.0631923384789
+ iteration: 1769 Training Accuracy: 99.59238080042374 Validation Accuracy: 98.33086792896546
+ iteration: 1887 Training Accuracy: 99.60618483486222 Validation Accuracy: 98.96141869719781
+ iteration: 2005 Training Accuracy: 99.66234537785044 Validation Accuracy: 98.88028852905546
+ iteration: 2123 Training Accuracy: 99.70803777831117 Validation Accuracy: 98.9256862975296
+ iteration: 2241 Training Accuracy: 99.77137233808477 Validation Accuracy: 98.8917247651521
+ iteration: 2241 Training Accuracy: 99.77137233808477 Validation Accuracy: 98.94633758395018
+# Saving models ...
+# ... done.
+# Finished at Thu Jul 15 11:48:13 2021, 246.623 seconds elapsed

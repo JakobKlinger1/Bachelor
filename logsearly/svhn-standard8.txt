@@ -1,0 +1,27 @@
+# Starting at Thu Jul 15 14:36:11 2021
+# Data loaded,  73264/26032 samples used.
+# Go ...
+ iteration: 9157 Training Accuracy: 73.70688892367347 Validation Accuracy: 78.58208672439626
+ iteration: 18315 Training Accuracy: 81.05873986160177 Validation Accuracy: 84.87894180651904
+ iteration: 27473 Training Accuracy: 84.15231815539015 Validation Accuracy: 88.43406021076805
+ iteration: 36631 Training Accuracy: 87.64920835394838 Validation Accuracy: 90.24861016820883
+ iteration: 45789 Training Accuracy: 89.8453570498717 Validation Accuracy: 93.14561490302202
+ iteration: 54947 Training Accuracy: 92.69631258349835 Validation Accuracy: 92.17225457881234
+ iteration: 64105 Training Accuracy: 92.39284007233367 Validation Accuracy: 94.05573381302389
+ iteration: 73263 Training Accuracy: 91.59327370718655 Validation Accuracy: 94.10241676644289
+ iteration: 82421 Training Accuracy: 92.32089754122545 Validation Accuracy: 92.48719407364138
+ iteration: 91579 Training Accuracy: 93.1592075663021 Validation Accuracy: 94.50696548112442
+# Saving models ...
+# ... done.
+ iteration: 100737 Training Accuracy: 92.47663286754458 Validation Accuracy: 92.2748501433589
+ iteration: 109895 Training Accuracy: 92.5483271998761 Validation Accuracy: 92.691164821489
+ iteration: 119053 Training Accuracy: 95.03990391260645 Validation Accuracy: 94.68537631268363
+ iteration: 128211 Training Accuracy: 93.33282431688869 Validation Accuracy: 94.46439920979199
+ iteration: 137369 Training Accuracy: 93.63426006967471 Validation Accuracy: 92.85596682076805
+ iteration: 146527 Training Accuracy: 94.0969151408983 Validation Accuracy: 94.35652476590361
+ iteration: 155685 Training Accuracy: 94.75565751917229 Validation Accuracy: 94.01589935474938
+ iteration: 164843 Training Accuracy: 93.75382637525185 Validation Accuracy: 94.05365904490898
+ iteration: 164843 Training Accuracy: 93.75382637525185 Validation Accuracy: 94.05365904490898
+# Saving models ...
+# ... done.
+# Finished at Thu Jul 15 15:24:55 2021, 2924.42 seconds elapsed

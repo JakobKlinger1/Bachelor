@@ -1,0 +1,29 @@
+# Starting at Thu Jul 15 11:45:17 2021
+# Data loaded,  60160/10240 samples used.
+# Go ...
+ iteration: 234 Training Accuracy: 82.48432211831341 Validation Accuracy: 93.91473068615768
+ iteration: 469 Training Accuracy: 95.84806772567508 Validation Accuracy: 97.16298339899014
+ iteration: 704 Training Accuracy: 97.89206339277868 Validation Accuracy: 97.79068272807878
+ iteration: 939 Training Accuracy: 98.54436468301843 Validation Accuracy: 98.69334348154204
+ iteration: 1174 Training Accuracy: 98.7543202190649 Validation Accuracy: 97.67277339090678
+ iteration: 1409 Training Accuracy: 99.05442775538577 Validation Accuracy: 98.89278320029568
+ iteration: 1644 Training Accuracy: 99.18259733426447 Validation Accuracy: 99.01465493624511
+ iteration: 1879 Training Accuracy: 99.24040621504916 Validation Accuracy: 99.03828218443941
+ iteration: 2114 Training Accuracy: 99.44009963794227 Validation Accuracy: 99.16041339308312
+ iteration: 2349 Training Accuracy: 99.51921096933492 Validation Accuracy: 99.17177974253501
+# Saving models ...
+# ... done.
+ iteration: 2584 Training Accuracy: 99.57694170676592 Validation Accuracy: 98.60353771113179
+ iteration: 2819 Training Accuracy: 99.69401763311353 Validation Accuracy: 99.07063974839953
+ iteration: 3054 Training Accuracy: 99.72877896619731 Validation Accuracy: 98.90854949182591
+ iteration: 3289 Training Accuracy: 99.81323467830136 Validation Accuracy: 99.28369415237289
+ iteration: 3524 Training Accuracy: 99.84117803418388 Validation Accuracy: 99.41361413984605
+ iteration: 3759 Training Accuracy: 99.8523318576743 Validation Accuracy: 99.08519854072652
+ iteration: 3994 Training Accuracy: 99.87634865090034 Validation Accuracy: 98.51230052400054
+ iteration: 4229 Training Accuracy: 99.86103706920838 Validation Accuracy: 99.07815163504323
+ iteration: 4464 Training Accuracy: 99.91217665863053 Validation Accuracy: 99.22817860714258
+ iteration: 4699 Training Accuracy: 99.93323886958024 Validation Accuracy: 99.16454518900014
+ iteration: 4699 Training Accuracy: 99.93323886958024 Validation Accuracy: 99.25664392746175
+# Saving models ...
+# ... done.
+# Finished at Thu Jul 15 11:50:14 2021, 296.857 seconds elapsed

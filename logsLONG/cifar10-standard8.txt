@@ -1,0 +1,52 @@
+# Starting at Thu Jul 15 00:06:02 2021
+# Data loaded,  50000/10000 samples used.
+# Go ...
+ iteration: 6249 Training Accuracy: 63.94263274432574 Validation Accuracy: 55.45126655127814
+ iteration: 12499 Training Accuracy: 70.69877579936043 Validation Accuracy: 62.35373720700399
+ iteration: 18749 Training Accuracy: 76.51479847527925 Validation Accuracy: 66.80322178150705
+ iteration: 24999 Training Accuracy: 81.69469404000797 Validation Accuracy: 74.62634817261466
+ iteration: 31249 Training Accuracy: 88.0494977153712 Validation Accuracy: 70.36274963227034
+ iteration: 37499 Training Accuracy: 91.16208230249885 Validation Accuracy: 69.4841724292275
+ iteration: 43749 Training Accuracy: 94.11406654679386 Validation Accuracy: 69.96817745857942
+ iteration: 49999 Training Accuracy: 97.12511193082678 Validation Accuracy: 73.0785724051269
+ iteration: 56249 Training Accuracy: 98.68548560705241 Validation Accuracy: 71.08466357807804
+ iteration: 62499 Training Accuracy: 99.67390180562685 Validation Accuracy: 73.88788278067564
+# Saving models ...
+# ... done.
+ iteration: 68749 Training Accuracy: 99.12443552053445 Validation Accuracy: 72.40455966840267
+ iteration: 74999 Training Accuracy: 99.64081007989103 Validation Accuracy: 70.86639228094693
+ iteration: 81249 Training Accuracy: 99.74763018095493 Validation Accuracy: 74.68749005068041
+ iteration: 87499 Training Accuracy: 99.92917430460632 Validation Accuracy: 71.44205518527681
+ iteration: 93749 Training Accuracy: 99.8975461190538 Validation Accuracy: 68.9026642060875
+ iteration: 99999 Training Accuracy: 99.75037310729584 Validation Accuracy: 74.63559934521533
+ iteration: 106249 Training Accuracy: 99.78884119543773 Validation Accuracy: 71.26446002021223
+ iteration: 112499 Training Accuracy: 99.80781009551345 Validation Accuracy: 74.27536902782194
+ iteration: 118749 Training Accuracy: 99.94330781193426 Validation Accuracy: 76.0239075360405
+ iteration: 124999 Training Accuracy: 99.86599718758384 Validation Accuracy: 75.45371584534028
+# Saving models ...
+# ... done.
+ iteration: 131249 Training Accuracy: 99.92885563644006 Validation Accuracy: 72.41482196954418
+ iteration: 137499 Training Accuracy: 99.92071652289299 Validation Accuracy: 74.03744292875682
+ iteration: 143749 Training Accuracy: 99.9657971763218 Validation Accuracy: 74.50900150189798
+ iteration: 149999 Training Accuracy: 99.9783970211128 Validation Accuracy: 72.44355239562083
+ iteration: 156249 Training Accuracy: 99.55428483472143 Validation Accuracy: 75.39871306401038
+ iteration: 162499 Training Accuracy: 99.97988195363871 Validation Accuracy: 73.03528998125235
+ iteration: 168749 Training Accuracy: 99.99963876249645 Validation Accuracy: 73.05944893741595
+ iteration: 174999 Training Accuracy: 99.99786885335949 Validation Accuracy: 75.7615080338661
+ iteration: 181249 Training Accuracy: 99.99978187053522 Validation Accuracy: 73.47854527920329
+ iteration: 187499 Training Accuracy: 99.88915823276793 Validation Accuracy: 70.57781144855163
+# Saving models ...
+# ... done.
+ iteration: 193749 Training Accuracy: 99.9996899506476 Validation Accuracy: 73.15899836436341
+ iteration: 199999 Training Accuracy: 99.96242364347903 Validation Accuracy: 72.6010690887581
+ iteration: 206249 Training Accuracy: 99.99999971692868 Validation Accuracy: 73.23199153520021
+ iteration: 212499 Training Accuracy: 99.99964244967282 Validation Accuracy: 73.38068855788518
+ iteration: 218749 Training Accuracy: 99.99802977188556 Validation Accuracy: 75.46963275994011
+ iteration: 224999 Training Accuracy: 99.95470188886827 Validation Accuracy: 72.096493255363
+ iteration: 231249 Training Accuracy: 99.9994045660386 Validation Accuracy: 74.76849753175024
+ iteration: 237499 Training Accuracy: 99.99424878171236 Validation Accuracy: 73.22250190269848
+ iteration: 243749 Training Accuracy: 99.91549654423079 Validation Accuracy: 74.08862996214353
+ iteration: 249999 Training Accuracy: 99.88867938356911 Validation Accuracy: 75.78844136259504
+# Saving models ...
+# ... done.
+# Finished at Thu Jul 15 01:19:32 2021, 4409.83 seconds elapsed

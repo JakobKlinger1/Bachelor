@@ -1,0 +1,28 @@
+# Starting at Thu Jul 15 12:00:12 2021
+# Data loaded,  60032/10112 samples used.
+# Go ...
+ iteration: 468 Training Accuracy: 95.15793637983644 Validation Accuracy: 97.86551021520977
+ iteration: 937 Training Accuracy: 98.08713144111671 Validation Accuracy: 98.14784728445926
+ iteration: 1406 Training Accuracy: 98.38677019103855 Validation Accuracy: 98.80152712574834
+ iteration: 1875 Training Accuracy: 98.76495631890134 Validation Accuracy: 98.8656421129032
+ iteration: 2344 Training Accuracy: 99.08742731144473 Validation Accuracy: 98.96576169201109
+ iteration: 2813 Training Accuracy: 99.25687723001407 Validation Accuracy: 99.20997560920132
+ iteration: 3282 Training Accuracy: 99.25266478156689 Validation Accuracy: 99.02616179517959
+ iteration: 3751 Training Accuracy: 99.4574518156381 Validation Accuracy: 99.00197748061693
+ iteration: 4220 Training Accuracy: 99.52324727980998 Validation Accuracy: 98.00009824609572
+ iteration: 4689 Training Accuracy: 99.63293292824487 Validation Accuracy: 98.84944195401297
+# Saving models ...
+# ... done.
+ iteration: 5158 Training Accuracy: 99.62785131629995 Validation Accuracy: 99.49691143530995
+ iteration: 5627 Training Accuracy: 99.75110650916889 Validation Accuracy: 99.54588544152948
+ iteration: 6096 Training Accuracy: 99.78729828788656 Validation Accuracy: 98.71594614503577
+ iteration: 6565 Training Accuracy: 99.79147108300565 Validation Accuracy: 99.55768153791121
+ iteration: 7034 Training Accuracy: 99.80877772965513 Validation Accuracy: 99.53120646052409
+ iteration: 7503 Training Accuracy: 99.8754524335227 Validation Accuracy: 99.29520461521025
+ iteration: 7972 Training Accuracy: 99.9057348144871 Validation Accuracy: 99.46742602662249
+ iteration: 8441 Training Accuracy: 99.9311997485037 Validation Accuracy: 99.26717823230072
+ iteration: 8910 Training Accuracy: 99.93855788149101 Validation Accuracy: 99.43761766929067
+ iteration: 8910 Training Accuracy: 99.93855788149101 Validation Accuracy: 99.3818281612203
+# Saving models ...
+# ... done.
+# Finished at Thu Jul 15 12:05:27 2021, 315.176 seconds elapsed

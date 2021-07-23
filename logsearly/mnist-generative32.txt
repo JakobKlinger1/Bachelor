@@ -1,0 +1,26 @@
+# Starting at Thu Jul 15 11:59:14 2021
+# Data loaded,  60000/10016 samples used.
+# Go ...
+ iteration: 1874 Training Accuracy: 98.50038014883589 Validation Accuracy: 97.9464691850781
+ iteration: 3749 Training Accuracy: 99.05453730245017 Validation Accuracy: 98.41930203672624
+ iteration: 5624 Training Accuracy: 99.35333349924409 Validation Accuracy: 98.76643373217361
+ iteration: 7499 Training Accuracy: 99.47371450825113 Validation Accuracy: 99.49696959553293
+ iteration: 9374 Training Accuracy: 99.76793810327383 Validation Accuracy: 99.23211826821161
+ iteration: 11249 Training Accuracy: 99.87539716959866 Validation Accuracy: 99.52082443084086
+ iteration: 13124 Training Accuracy: 99.79727274512145 Validation Accuracy: 99.16542485859375
+ iteration: 14999 Training Accuracy: 99.94430462479437 Validation Accuracy: 98.83068690355498
+ iteration: 16874 Training Accuracy: 99.9688838569267 Validation Accuracy: 99.2612189495812
+ iteration: 18749 Training Accuracy: 99.95199288322766 Validation Accuracy: 99.57047685767678
+# Saving models ...
+# ... done.
+ iteration: 20624 Training Accuracy: 99.99826075813147 Validation Accuracy: 99.09204155476168
+ iteration: 22499 Training Accuracy: 99.99999599299214 Validation Accuracy: 99.91512486867464
+ iteration: 24374 Training Accuracy: 99.98148931743513 Validation Accuracy: 98.87732524032258
+ iteration: 26249 Training Accuracy: 99.99866565780874 Validation Accuracy: 99.22830893098788
+ iteration: 28124 Training Accuracy: 99.99747541730117 Validation Accuracy: 99.90679983739044
+ iteration: 29999 Training Accuracy: 99.9993542087385 Validation Accuracy: 99.44782067737961
+ iteration: 31874 Training Accuracy: 99.98295628588058 Validation Accuracy: 98.99773749217711
+ iteration: 31874 Training Accuracy: 99.98295628588058 Validation Accuracy: 99.68675509811838
+# Saving models ...
+# ... done.
+# Finished at Thu Jul 15 12:09:43 2021, 628.598 seconds elapsed

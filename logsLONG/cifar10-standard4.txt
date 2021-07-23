@@ -1,0 +1,28 @@
+# Starting at Thu Jul 15 00:05:39 2021
+# Data loaded,  50000/10000 samples used.
+# Go ...
+ iteration: 12499 Training Accuracy: 66.49062081803578 Validation Accuracy: 59.47789055812782
+ iteration: 24999 Training Accuracy: 75.86662748926604 Validation Accuracy: 66.41821993443125
+ iteration: 37499 Training Accuracy: 80.33077199503913 Validation Accuracy: 70.9923642416659
+ iteration: 49999 Training Accuracy: 85.33009671084677 Validation Accuracy: 73.19518833166794
+ iteration: 62499 Training Accuracy: 88.94995681409436 Validation Accuracy: 77.35865158916438
+ iteration: 74999 Training Accuracy: 93.93190720873865 Validation Accuracy: 72.36280669378249
+ iteration: 87499 Training Accuracy: 95.71133999489594 Validation Accuracy: 68.48468036408977
+ iteration: 99999 Training Accuracy: 98.81051678547308 Validation Accuracy: 73.76240940018377
+ iteration: 112499 Training Accuracy: 98.85689639794288 Validation Accuracy: 71.99034049941243
+ iteration: 124999 Training Accuracy: 99.41368181073422 Validation Accuracy: 79.14509407446437
+# Saving models ...
+# ... done.
+ iteration: 137499 Training Accuracy: 99.60941631439148 Validation Accuracy: 78.11126298207041
+ iteration: 149999 Training Accuracy: 99.94389140634453 Validation Accuracy: 75.20163210637372
+ iteration: 162499 Training Accuracy: 99.94035905577496 Validation Accuracy: 65.51897276163636
+ iteration: 174999 Training Accuracy: 99.61121954647103 Validation Accuracy: 70.61173763108394
+ iteration: 187499 Training Accuracy: 99.99998191337323 Validation Accuracy: 76.36782443996034
+ iteration: 199999 Training Accuracy: 99.99087830780738 Validation Accuracy: 68.36135281432254
+ iteration: 212499 Training Accuracy: 99.99992928685728 Validation Accuracy: 81.83787910389486
+ iteration: 224999 Training Accuracy: 99.97720153652736 Validation Accuracy: 72.97357633206201
+ iteration: 237499 Training Accuracy: 99.95424370214134 Validation Accuracy: 74.49341238018222
+ iteration: 249999 Training Accuracy: 99.75447502920841 Validation Accuracy: 76.35593320762729
+# Saving models ...
+# ... done.
+# Finished at Thu Jul 15 01:15:02 2021, 4162.75 seconds elapsed
